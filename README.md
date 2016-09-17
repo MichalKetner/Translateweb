@@ -1,44 +1,30 @@
-# Předseda Pirátů chce otevřít oddělení informatiky pražského magistrátu
+# Piráti Karlův most ubránili: Absurdní poplatek za focení se neplatí
 
-{{ivab_bartos_small.jpg }}
+{{den_tripodu.jpg?380 }}
 
+Ve čtvrtek 28. 6. 2012 proběhl na Karlově mostě *Den tripodů*. Ptáte se, co si pod tím představit? Uprostřed Karlova mostu sešli fotografové, aby zde zhotovili kvalitní a neroztřesené snímky s libovolným námětem. 
 
-Během posledních několika let utratil pražský magistrát v oblasti IT přibližně sedm miliard korun. Většina těchto peněz skončila v pochybných zakázkách na často nepotřebná řešení a systémy.
-
-Nejznámější kauza Opencard dokonce není největší zakázkou, nad kterou se vznášejí otazníky. Zveřejnění ani analýza jednotlivých případů na stránkách Pirátských novin [1] a PirateLeaks.cz [2] nepřináší potřebné změny. Na magistrátě se stále vesele krade a zakázky na míru se přihrávají spřáteleným firmám [3].
-
-Piráti se rozhodli aktivně přikročit k řešení tohoto problému. Do výběrového řízení [4] na nového [5] ředitele odboru informatiky Magistrátu hlavního města Prahy se proto přihlásil předseda Pirátů PhDr. Ivan Bartoš [6]. Splňuje všechny kvalifikační předpoklady a v Pirátské straně má zázemí několika desítek IT odborníků, kteří mohou dělat nezávislou oponenturu úředníkům napojeným na současné dodavatele softwaru.
+Cílem akce nebylo obtěžovat kolemjdoucí, ale vyjádřit nesouhlas s podivnými praktikami *Sdružení výtvarníků Karlova mostu*. 
 
 
 
-{{ ivan_bartos.preview.jpg?600 }}
+Jako stativ je trojnožka (tripod) ideální. Piráti upozornili na to, že pořadatelská služba dlouhodobě omezuje práva občanů na této významné kulturní památce, aniž by k tomu existovala jakákoliv opora v zákoně. Ve spolupráci s radnicí Prahy 1 a účelovým výkladem některých vyhlášek si přisvojuje právo rozhodovat o tom, jakou techniku fotograf smí použít a jakým způsobem nafotografovaný materiál využije. Právní status pořadatelské služby se přitom nijak neliší od běžného občana, nemá tedy žádnou pravomoc jakkoli omezovat či obtěžovat ostatní.
 
-Zde jsou první úkoly Ivana Bartoše pro odbor informatiky pražského magistrátu:
+Piráti nejsou proti tomu, aby se za zábor veřejného prostranství či dopravní omezení, například pro účely reklamní fotografie, vybíral zákonem stanovený poplatek. Umístění stativu pro zhotovení několika snímků Karlova mostu a okolí ovšem takovým záborem rozhodně není.
 
-    - **Analyzovat potřebné funkcionality** - Odbor musí nejprve vědět, jakou činnost má zajišťovat. Až potom je na místě objednávat informační systémy a další vybavení. Poslední čtyři roky je rozhodujícím kritériem nákupu pražského magistrátu jediné: jak nejsnáze převést pomocí dané zakázky peníze z účtů města na účty firem spřízněných s vedením magistrátu a odboru informatiky. To musí skončit.
-    - **Analyzovat použitelnost stávajícího softwaru** - Podle informací od whistleblowerů existují na magistrátu pro řadu funkcionalit běžně tři paralelní řešení. Z nich se v praxi využívá buď jedno (v extrémních případech dokonce žádné), případně se provádějí duplicitní činnosti.
-    - **Skončit s dodavateli uzamčených systémů** (vendor lock-in) - Řada firem proměnila magistrát ve svou dojnou krávu. Například firma Marbes Consulting, s.r.o., za stovky milionů korun z pražského magistrátu vyvinula informační systém Proxio, který nyní magistrátu opět prodává.
-    - **Analýzou smluv prokázat závažná provinění při správě cizího majetku** - Zkorumpované úředníky nestačí vyhodit, patří do vězení stejně jako radní, kteří je úkolovali. Jsme přesvědčeni, že ze smluv uzavřených odborem informatiky půjde prokázat tak závažná provinění při správě cizího majetku, že bude možné dostat zodpovědné osoby před soud. Před soud zcela jistě patří Martin Vimr, bývalý šéf odboru informatiky, Petr Kolbek, architekt projektu Opencard, a bývalí radní, kteří měli v Praze oblast informatiky na starosti (Rudolf Blažek a Milan Richter).
+Podle Pirátů je zcela nepodstatné, zda-li jste profesionál nebo amatér a zda-li výsledný snímek smažete, zveřejníte na facebooku či v prestižním kalendáři za vysoký honorář. Žádná zájmová skupina si nemůže dělat nároky na jakýsi "podíl ze zisku" z takovýchto snímků, ani na jejich stažení z internetových fotogalerií.
 
-"Odbor informatiky nebude sloužit rozkoši, bohatství a slávě naroubovaných pijavic, ale výhradně k užitku všech obyvatel a návstěvníků města Prahy i okolí. Situace je vážná, a proto ještě upozorním, že jsem fyzicky i duševně v pořádku a rozhodně se nechystám vypadnout z okna, skočit pod autobus ani si zaplavat v řece. To jen pro případ, kdybych nebyl k nalezení. Od senátora Dientsbiera [7] víme, jaké nápady v souvislosti s magistrátem v Praze mají někteří mocní, když jim teče do bot," dodává Ivan Bartoš.
+Piráti ostře vystupují proti jakýmkoliv podobným snahám o privatizaci veřejného prostoru a vyzývají radnici Prahy 1 a Sdružení výtvarníků Karlova mostu k jasnému potvrzení, že pokus vybírat peníze za soukromé i profesionální fotografie Karlova mostu je nezákonný. Z pohledu kopírovacího zákona je zhotovení fotografie díla umístěného na veřejném prostranství a její další užití je jednoznačně legální.
 
-#### Odkazy
+Ondřej Neff označil akci ve své fotoreportáži za "milou, velmi recesní demonstraci." 
+
+> "Je fakt, že přituhuje a líhnou se nápady například zákazů focení novostaveb, pod záminkou, že jde o umělecké dílo a že je to porušení autorských práv," dodal Neff.
+
+## BOX:related
 
 
-*  [1] [http://www.piratskenoviny.cz/?c_id=33479|Pirátské noviny – kauza Proxio]] 
+###  Související odkazy
 
-*  [2] [Pirateleaks – kauza Gordic](http://pirateleaks.cz/www/regiony/praha/blog/inf_odbor_zakazky.html) 
+*  [Fotoreportáž Ondřeje Neffa](http://digineff.cz/art/aktuality/den-tripod.html)
 
-*  [3] [Kauza Proxio pokračování](http://piratskenoviny.cz/?c_id=33502)
-
-*  [4] [Výběrové řízení 1677 RO INF](http://www.praha.eu/file/1217433/vyberove_rizeni_1677_RO_INF.pdf)
-
-*  [5] [Bývalý vedoucí oddělení Vimr skončil](http://prazsky.denik.cz/zpravy_region/magistrat-opousti-reditel-odboru-informatiky-vimr.html)
-
-*  [6] {{mo:cv_phdr_bartos_2011_cze.pdf|Životopis Ivana Bartoše}}
-
-*  [6a] {{mo:prihlaskadovyberovehorizeni.pdf|Přihláška Ivana Bartoše}}
-
-*  [7] [Povzdech Jiřího Dientsbiera z Facebooku](http://piratskenoviny.cz/?c_id=33451)
-
-*  [8] [Seznam zakázek, o které aktuálně jde](http://www.piratskenoviny.cz/?c_id=33458)
+*  [Článek o poplatcích za focení na Karlově mostě](http://www.metro.cz/fotka-na-karlove-moste-vas-muze-prijit-draho-na-facebook-nepatri-pww-/co-se-deje.aspx?c=A120615_142149_co-se-deje_ava)
