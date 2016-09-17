@@ -1,11 +1,11 @@
 ~~NOTOC~~
-====== Historizující průzkum dává Pirátům v Praze slušné šance na zastupitelstvo ======
+# Historizující průzkum dává Pirátům v Praze slušné šance na zastupitelstvo
 
 {{herzmann.jpg?350&nolink |Průzkum společnosti Herzmann}} V historizujícím volebním modelu, který vychází z výsledků posledních voleb, mají Piráti v Praze slušné šance dostat se do zastupitelstva hlavního města Prahy. Od překročení uzavírací klauzule 5 % je totiž dělí jen desetina procenta. Věříme, že realita bude podstatně lepší.
 
 ~~READMORE~~
 
-Pro Českou pirátskou stranu jsou prognózy důležité z toho důvodu, že přirozeně může dávat najevo, jak by se postavila k ostatním kandidujícím subjektům. Piráti mají zatím jen zběžný  [[regiony/praha/povolebni_strategie|návrh povolební strategie]], podle něhož by se rozhodli, jakým způsobem postupovat. Pokud by se jim podařilo přesáhnout uzavírací klauzuli, mají díky jedinému volebnímu obvodu jisté zastoupení v zastupitelstvu.
+Pro Českou pirátskou stranu jsou prognózy důležité z toho důvodu, že přirozeně může dávat najevo, jak by se postavila k ostatním kandidujícím subjektům. Piráti mají zatím jen zběžný  [návrh povolební strategie](regiony/praha/povolebni_strategie), podle něhož by se rozhodli, jakým způsobem postupovat. Pokud by se jim podařilo přesáhnout uzavírací klauzuli, mají díky jedinému volebnímu obvodu jisté zastoupení v zastupitelstvu.
 
 Společnost Herzmann s.r.o. vydává v rámci projektu Český volič od přelomu května a června 2014
 také měsíční studie Pražský volič. Předmětem zkoumání se staly výsledky různých typů voleb na území
@@ -24,4 +24,4 @@ propadl mezi „malé“ strany, další kandidující subjekty by měly získat
 údaje však v žádném případě nelze vykládat jako prognózu říjnového výsledku skutečných
 komunálních voleb.//
 
-Části textu převzaty z tiskové zprávy společnosti Herzmann. Historizují model si lze stáhnout na [[http://www.herzmann.cz/wp-content/uploads/2014/06/TZ-140612-Pra%C5%BEsk%C3%A9-volby.pdf|stránkách společnosti Herzmann]].
+Části textu převzaty z tiskové zprávy společnosti Herzmann. Historizují model si lze stáhnout na [stránkách společnosti Herzmann](http://www.herzmann.cz/wp-content/uploads/2014/06/TZ-140612-Pra%C5%BEsk%C3%A9-volby.pdf).
