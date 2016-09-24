@@ -1,26 +1,26 @@
-# Historizující průzkum dává Pirátům v Praze slušné šance na zastupitelstvo
+# Praha opakuje chyby s Opencard, prodlužuje penězovod pro IT firmy
 
-{{herzmann.jpg?350&nolink |Průzkum společnosti Herzmann}} V historizujícím volebním modelu, který vychází z výsledků posledních voleb, mají Piráti v Praze slušné šance dostat se do zastupitelstva hlavního města Prahy. Od překročení uzavírací klauzule 5 % je totiž dělí jen desetina procenta. Věříme, že realita bude podstatně lepší.
+![Budova pražského magistrátu](http://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Praha_Nova_radnice.jpg/1200px-Praha_Nova_radnice.jpg)
+Zastupitelstvo Prahy 19. 6. 2014 schválilo veřejnou zakázku na podporu systému PROXIO (správa dokumentů, spisová služba, ekonomický systém) na dobu 4 let v hodnotě 88 milionů Kč. Stejně tak schválilo záměr na vypsání veřejné zakázky bez uveřejnění na podporu systému IS Ekonomika, skrze který Praha vede účetnictví, po dobu 2 let v hodnotě 136 milionů Kč.
 
 
+Oba tyto systémy jsou klasickým příkladem vendor lock-in neboli licenčního omezení, kterým dodavatel činí zákazníka závislým na jeho budoucích dodávkách. Piráti kritizují výběrová řízení s vendor lock-in již od roku 2008, kdy poslali primátorovi hlavního města veřejný dopis.
 
-Pro Českou pirátskou stranu jsou prognózy důležité z toho důvodu, že přirozeně může dávat najevo, jak by se postavila k ostatním kandidujícím subjektům. Piráti mají zatím jen zběžný  [návrh povolební strategie](regiony/praha/povolebni_strategie), podle něhož by se rozhodli, jakým způsobem postupovat. Pokud by se jim podařilo přesáhnout uzavírací klauzuli, mají díky jedinému volebnímu obvodu jisté zastoupení v zastupitelstvu.
+V prvním případě je jediným možným vítězem výběrového řízení společnost MARBES CONSULTING s.r.o., v druhém případě pak společnost Gordic spol. s r. o. Praha tak v současnosti prodlužuje systém, ve kterém byl za veřejné peníze vytvořen software, který vlastní konkrétní společnosti, nikoliv hlavní město. Tyto společnosti jsou fakticky jedinými možnými obsluhovateli tohoto systému a je jim tak zaručen dlouhodobý přísun veřejných peněz. 
 
-Společnost Herzmann s.r.o. vydává v rámci projektu Český volič od přelomu května a června 2014
-také měsíční studie Pražský volič. Předmětem zkoumání se staly výsledky různých typů voleb na území
-hl. m. Prahy. Pro sestavení „historizujícího“ volebního modelu nebyly použity poznatky z žádných
-průzkumů veřejného mínění a voličských preferencí. 
+Obě tyto kauzy byly již dříve medializovány (např. [ zde](http://zpravy.e15.cz/domaci/udalosti/praha-chce-dal-spolupracovat-s-firmou-gordic-bez-vyberoveho-rizeni-1046178) a [ zde](http://www.piratskelisty.cz/clanek-318-pribeh-vzniku-korupcnich-vazeb-proxio-na-magistratu)), kandidáta Pirátů do zastupitelstva Hlavního města Prahy Mikuláše Ferjenčíka dokonce firma Marbes [zažalovala](//regiony/praha/tiskove-zpravy/firma_vyvijela_za_penize_prazskeho_magistratu_a_prodavala_po_cele_republice_potvrdil_soud) (a prohrála). Fakt, že město drží *status quo*, je pro Piráty nepřijatelný. Problém je, že problematice IT v orgánech města mnoho lidí nerozumí a rozhodují buď nekompetentní nebo nepoctiví lidé.
 
-„Historizující“ volební model, založený výhradně na analýze výsledků předchozích voleb na území hl.
-m. Prahy, signalizuje, že volby do Zastupitelstva hl. m. Prahy by mohla vyhrát samostatně kandidující
-TOP 09 se ziskem 19,9 % hlasů. Druhé místo by mohla obsadit koalice Strany zelených, KDU-ČSL a
-Starostů se ziskem 17 %, těsně třetí by mohlo s 15,5 % skončit hnutí ANO 2011. Sociální demokracie
-by s 12,1 % porazila ODS, které model připisuje 10,4 %. Pětiprocentní hranici by překročili ještě KSČM
-(7,4 %) a Svobodní (5,4 %), těsně pod ní by mohli skončit Piráti (4,9 %). Úsvit by se ziskem 2,9 %
-propadl mezi „malé“ strany, další kandidující subjekty by měly získat dohromady jen 5,0 % hlasů. 
+Piráti prosazují, aby byl software vytvářený z veřejných peněz uvolněn pod svobodnou licencí (licencí umožňující volné šíření zdrojového kódu počítačového programu s minimem omezujících podmínek), aby 
 
-//Tyto
-údaje však v žádném případě nelze vykládat jako prognózu říjnového výsledku skutečných
-komunálních voleb.//
+1. každý vývojář mohl software zkoumat a mohly ho tak obsluhovat i firmy, které ho nevytvořily, čímž by se snížila cena obsluhy (kvůli konkurenci),
 
-Části textu převzaty z tiskové zprávy společnosti Herzmann. Historizují model si lze stáhnout na [stránkách společnosti Herzmann](http://www.herzmann.cz/wp-content/uploads/2014/06/TZ-140612-Pra%C5%BEsk%C3%A9-volby.pdf).
+2. mohly software používat i jiné subjekty než původní objednavatel (zde také např. městské části), což by ušetřilo peníze ve veřejném rozpočtu.
+
+V těchto případech by Piráti vyhlásili výběrová řízení na vytvoření nového software, který by byl uvolněn pod svobodnou licencí. Svobodný software funguje řadu let např. v Mnichově, kde ušetřil desítky milionů korun.
+
+
+### Kontakt
+
+[Ondřej Profant](//lide/ondrej_profant), kandidát Pirátů č. 2 do zastupitelstva hl. m. Prahy, informatik specializovaný na svobodný software, [ondrej.profant@pirati.cz](ondrej.profant@pirati.cz), 774 366 359
+
+[ Adam Zábranský](//lide/adam_zabransky), kandidát Pirátů č. 3 do zastupitelstva hl. m. Prahy a analytik materiálů zastupitelstva, [adam.zabransky@pirati.cz](adam.zabransky@pirati.cz), 721 006 868
