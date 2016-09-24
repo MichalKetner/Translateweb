@@ -1,26 +1,44 @@
-# Praha opakuje chyby s Opencard, prodlužuje penězovod pro IT firmy
+# Předseda Pirátů chce otevřít oddělení informatiky pražského magistrátu
 
-![Budova pražského magistrátu](http://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Praha_Nova_radnice.jpg/1200px-Praha_Nova_radnice.jpg)
-Zastupitelstvo Prahy 19. 6. 2014 schválilo veřejnou zakázku na podporu systému PROXIO (správa dokumentů, spisová služba, ekonomický systém) na dobu 4 let v hodnotě 88 milionů Kč. Stejně tak schválilo záměr na vypsání veřejné zakázky bez uveřejnění na podporu systému IS Ekonomika, skrze který Praha vede účetnictví, po dobu 2 let v hodnotě 136 milionů Kč.
-
-
-Oba tyto systémy jsou klasickým příkladem vendor lock-in neboli licenčního omezení, kterým dodavatel činí zákazníka závislým na jeho budoucích dodávkách. Piráti kritizují výběrová řízení s vendor lock-in již od roku 2008, kdy poslali primátorovi hlavního města veřejný dopis.
-
-V prvním případě je jediným možným vítězem výběrového řízení společnost MARBES CONSULTING s.r.o., v druhém případě pak společnost Gordic spol. s r. o. Praha tak v současnosti prodlužuje systém, ve kterém byl za veřejné peníze vytvořen software, který vlastní konkrétní společnosti, nikoliv hlavní město. Tyto společnosti jsou fakticky jedinými možnými obsluhovateli tohoto systému a je jim tak zaručen dlouhodobý přísun veřejných peněz. 
-
-Obě tyto kauzy byly již dříve medializovány (např. [ zde](http://zpravy.e15.cz/domaci/udalosti/praha-chce-dal-spolupracovat-s-firmou-gordic-bez-vyberoveho-rizeni-1046178) a [ zde](http://www.piratskelisty.cz/clanek-318-pribeh-vzniku-korupcnich-vazeb-proxio-na-magistratu)), kandidáta Pirátů do zastupitelstva Hlavního města Prahy Mikuláše Ferjenčíka dokonce firma Marbes [zažalovala](//regiony/praha/tiskove-zpravy/firma_vyvijela_za_penize_prazskeho_magistratu_a_prodavala_po_cele_republice_potvrdil_soud) (a prohrála). Fakt, že město drží *status quo*, je pro Piráty nepřijatelný. Problém je, že problematice IT v orgánech města mnoho lidí nerozumí a rozhodují buď nekompetentní nebo nepoctiví lidé.
-
-Piráti prosazují, aby byl software vytvářený z veřejných peněz uvolněn pod svobodnou licencí (licencí umožňující volné šíření zdrojového kódu počítačového programu s minimem omezujících podmínek), aby 
-
-1. každý vývojář mohl software zkoumat a mohly ho tak obsluhovat i firmy, které ho nevytvořily, čímž by se snížila cena obsluhy (kvůli konkurenci),
-
-2. mohly software používat i jiné subjekty než původní objednavatel (zde také např. městské části), což by ušetřilo peníze ve veřejném rozpočtu.
-
-V těchto případech by Piráti vyhlásili výběrová řízení na vytvoření nového software, který by byl uvolněn pod svobodnou licencí. Svobodný software funguje řadu let např. v Mnichově, kde ušetřil desítky milionů korun.
+![](ivab_bartos_small.jpg )
 
 
-### Kontakt
+Během posledních několika let utratil pražský magistrát v oblasti IT přibližně sedm miliard korun. Většina těchto peněz skončila v pochybných zakázkách na často nepotřebná řešení a systémy.
 
-[Ondřej Profant](//lide/ondrej_profant), kandidát Pirátů č. 2 do zastupitelstva hl. m. Prahy, informatik specializovaný na svobodný software, [ondrej.profant@pirati.cz](ondrej.profant@pirati.cz), 774 366 359
+Nejznámější kauza Opencard dokonce není největší zakázkou, nad kterou se vznášejí otazníky. Zveřejnění ani analýza jednotlivých případů na stránkách Pirátských novin [1] a PirateLeaks.cz [2] nepřináší potřebné změny. Na magistrátě se stále vesele krade a zakázky na míru se přihrávají spřáteleným firmám [3].
 
-[ Adam Zábranský](//lide/adam_zabransky), kandidát Pirátů č. 3 do zastupitelstva hl. m. Prahy a analytik materiálů zastupitelstva, [adam.zabransky@pirati.cz](adam.zabransky@pirati.cz), 721 006 868
+Piráti se rozhodli aktivně přikročit k řešení tohoto problému. Do výběrového řízení [4] na nového [5] ředitele odboru informatiky Magistrátu hlavního města Prahy se proto přihlásil předseda Pirátů PhDr. Ivan Bartoš [6]. Splňuje všechny kvalifikační předpoklady a v Pirátské straně má zázemí několika desítek IT odborníků, kteří mohou dělat nezávislou oponenturu úředníkům napojeným na současné dodavatele softwaru.
+
+
+
+![](ivan_bartos.preview.jpg)
+
+Zde jsou první úkoly Ivana Bartoše pro odbor informatiky pražského magistrátu:
+
+    - **Analyzovat potřebné funkcionality** - Odbor musí nejprve vědět, jakou činnost má zajišťovat. Až potom je na místě objednávat informační systémy a další vybavení. Poslední čtyři roky je rozhodujícím kritériem nákupu pražského magistrátu jediné: jak nejsnáze převést pomocí dané zakázky peníze z účtů města na účty firem spřízněných s vedením magistrátu a odboru informatiky. To musí skončit.
+    - **Analyzovat použitelnost stávajícího softwaru** - Podle informací od whistleblowerů existují na magistrátu pro řadu funkcionalit běžně tři paralelní řešení. Z nich se v praxi využívá buď jedno (v extrémních případech dokonce žádné), případně se provádějí duplicitní činnosti.
+    - **Skončit s dodavateli uzamčených systémů** (vendor lock-in) - Řada firem proměnila magistrát ve svou dojnou krávu. Například firma Marbes Consulting, s.r.o., za stovky milionů korun z pražského magistrátu vyvinula informační systém Proxio, který nyní magistrátu opět prodává.
+    - **Analýzou smluv prokázat závažná provinění při správě cizího majetku** - Zkorumpované úředníky nestačí vyhodit, patří do vězení stejně jako radní, kteří je úkolovali. Jsme přesvědčeni, že ze smluv uzavřených odborem informatiky půjde prokázat tak závažná provinění při správě cizího majetku, že bude možné dostat zodpovědné osoby před soud. Před soud zcela jistě patří Martin Vimr, bývalý šéf odboru informatiky, Petr Kolbek, architekt projektu Opencard, a bývalí radní, kteří měli v Praze oblast informatiky na starosti (Rudolf Blažek a Milan Richter).
+
+"Odbor informatiky nebude sloužit rozkoši, bohatství a slávě naroubovaných pijavic, ale výhradně k užitku všech obyvatel a návstěvníků města Prahy i okolí. Situace je vážná, a proto ještě upozorním, že jsem fyzicky i duševně v pořádku a rozhodně se nechystám vypadnout z okna, skočit pod autobus ani si zaplavat v řece. To jen pro případ, kdybych nebyl k nalezení. Od senátora Dientsbiera [7] víme, jaké nápady v souvislosti s magistrátem v Praze mají někteří mocní, když jim teče do bot," dodává Ivan Bartoš.
+
+#### Odkazy
+
+
+*  [1] [http://www.piratskenoviny.cz/?c_id=33479|Pirátské noviny – kauza Proxio]] 
+
+*  [2] [Pirateleaks – kauza Gordic](http://pirateleaks.cz/www/regiony/praha/blog/inf_odbor_zakazky.html) 
+
+*  [3] [Kauza Proxio pokračování](http://piratskenoviny.cz/?c_id=33502)
+
+*  [4] [Výběrové řízení 1677 RO INF](http://www.praha.eu/file/1217433/vyberove_rizeni_1677_RO_INF.pdf)
+
+*  [5] [Bývalý vedoucí oddělení Vimr skončil](http://prazsky.denik.cz/zpravy_region/magistrat-opousti-reditel-odboru-informatiky-vimr.html)
+
+*  [6] ![Životopis Ivana Bartoše](mo:cv_phdr_bartos_2011_cze.pdf)
+
+*  [6a] ![Přihláška Ivana Bartoše](mo:prihlaskadovyberovehorizeni.pdf)
+
+*  [7] [Povzdech Jiřího Dientsbiera z Facebooku](http://piratskenoviny.cz/?c_id=33451)
+
+*  [8] [Seznam zakázek, o které aktuálně jde](http://www.piratskenoviny.cz/?c_id=33458)
